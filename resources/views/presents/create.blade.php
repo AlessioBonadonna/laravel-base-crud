@@ -5,7 +5,7 @@
             <div class='col-6 me-3 '>
                 <form action="{{ route('presents.store') }}" method="POST" class="">
                     @csrf
-                    <h1 class="title-form mt-4">Crea la tua lettera</h1>
+                    <h2 class="title-form mt-4">Crea la tua lettera</h2>
                     <div class="">
                         <label for="name" class="form-label">Nome</label>
                         <input type="text" class="form-control" id="name" name="name">

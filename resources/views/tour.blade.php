@@ -21,7 +21,7 @@
         <section class="container my-section-text">
             <div>
                 <p class="fs-3 my-txt">
-                    <strong>Babbo Natale</strong>, altrimenti noto come San Nicola o Kris Kringle, ha una lunga storia ricca
+                    <strong>Babbo Natale</strong>, altrimenti noto come San Nicola , ha una lunga storia ricca
                     di
                     tradizioni natalizie . Oggi è pensato principalmente come l'uomo allegro in rosso che porta i
                     giocattoli a brave ragazze e ragazzi la vigilia di Natale, ma la sua storia risale al 3° secolo, San

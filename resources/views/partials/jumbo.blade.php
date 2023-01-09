@@ -14,7 +14,7 @@
             <p>Controlla se sono giusti</p>
         @endif
         @if (Str::contains(Route::currentRouteName(), 'presents.edit'))
-            <h1 style="font-size:50px">Non ti garba? Modifica il tuo regalo</h1>
+            <h1 style="font-size:50px">Non ti piace? Modifica il tuo regalo</h1>
         @endif
 
         @if (Route::currentRouteName() == 'presents.index')
